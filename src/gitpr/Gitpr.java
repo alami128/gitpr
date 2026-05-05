@@ -4,6 +4,8 @@
  */
 package gitpr;
 
+import java.util.Scanner;
+
 /**
  *
  * @author simo
@@ -15,6 +17,8 @@ public class Gitpr {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
+       Scanner scanner = new Scanner(System.in);
     }
     
 }
