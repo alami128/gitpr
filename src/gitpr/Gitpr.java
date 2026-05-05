@@ -19,6 +19,7 @@ public class Gitpr {
         // TODO code application logic here
        
        Scanner scanner = new Scanner(System.in);
+       int num ; 
     }
     
 }
